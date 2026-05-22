@@ -1,0 +1,6 @@
+{
+  "name": "Hydration Companion",
+  "description": "Premium glassmorphism water companion featuring real-time interactive fluid simulations, personalized smart calculations, bedtime cycle animations, and offline-first Local Push Notification alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
